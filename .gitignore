@@ -1,0 +1,8 @@
+# executable
+libftsgl
+
+# object files
+objs/
+
+# libraries
+libs/
